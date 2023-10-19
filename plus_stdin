@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# SPDX-FileCopyrightText: 2023 Kazuki Fujita kazu.maro.126624@icloud.com
+# SPDX-FileCopyrightText: 2023 Kazuki Fujta
 import sys
 
 ans = 0
