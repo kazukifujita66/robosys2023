@@ -4,11 +4,8 @@
 
 import sys
 
-ans = 0
-for line in sys.stdin:
-    try:
-        ans += int(line)
-    except:
+ans = 0.0
+for line in sys.argv[1:]:
         ans += float(line)
 
 print(ans)
