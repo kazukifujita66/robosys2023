@@ -1,11 +1,7 @@
 #!/usr/bin/python3
-<<<<<<< HEAD
-# SPDX-FileCopyrightText: 2023 Kazuki Fujta
-=======
 # SPDX-FileCopyrightText: 2023 Kazuki Fujita
 # SPDX-License-Identifier: BSD-3-Clause
 
->>>>>>> dev
 import sys
 
 ans = 0
