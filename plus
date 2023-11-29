@@ -4,9 +4,13 @@
 
 import sys
 
-ans = 0.0
+ans = 0
 for line in sys.stdin:
+    try:
+        ans += int(line)
+    except:
         ans += float(line)
+
 result = ans * 2
 
 print(result)
