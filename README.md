@@ -5,7 +5,15 @@
 
 ## 使い方
 * $ seq ? | ./plus  
-?に数字を入力する
+?に任意の数字を入力する
+* 実行例  
+$ seq 5 | ./plus  
+30
+
+## インストール方法
+* 以下のコマンドを入力してください.
+	* $ git clone https://github.com/kazukifujita66/robosys2023.git  
+	* $ cd robosys2023
 
 ## 必要なソフトウェア
 * Python
