@@ -1,7 +1,7 @@
 # plusコマンド
 ![test](https://github.com/kazukifujita66/robosys2023/actions/workflows/test.yml/badge.svg)
 
-
+実行すると,読み込んだ数字を足し2倍する.
 
 ## 必要なソフトウェア
 * Python
